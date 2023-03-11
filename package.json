@@ -56,7 +56,8 @@
     "export-coverage": "nyc report --reporter=text-lcov > lcov.info"
   },
   "dependencies": {
-    "clone": "2.x"
+    "clone": "2.x",
+    "node-cache": "^5.1.2"
   },
   "devDependencies": {
     "@types/node": "^8.9.4",

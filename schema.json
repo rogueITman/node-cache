@@ -1,0 +1,12 @@
+{
+  "title": "Node Internal Cache",
+  "description": "A simple and fast in-memory cache for Node.js.",
+  "type": "object",
+  "properties": {
+    "cache": {
+      "title": "Cache",
+      "description": "The internal cache for the Node.js application.",
+      "type": "object"
+    }
+  }
+}
