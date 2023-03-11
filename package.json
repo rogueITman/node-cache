@@ -29,22 +29,17 @@
   "author": "mpneuried <mp@tcs.de>",
   "maintainers": [
     {
-      "name": "M. Peter",
-      "email": "mp@tcs.de",
-      "url": "https://github.com/mpneuried"
-    },
-    {
-      "name": "Joshy",
-      "email": "erdiicodes@gmail.com",
-      "url": "https://erdii.engineering/"
+      "name": "rogueITman",
+      "email": "aelam71@yahoo.com",
+      "url": "https://github.com/rogueITman"
     }
   ],
   "main": "./index.js",
   "types": "./index.d.ts",
-  "homepage": "https://github.com/node-cache/node-cache",
+  "homepage": "https://github.com/rogueITman/node-cache",
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-cache/node-cache.git"
+    "url": "https://github.com/rogueITman/node-cache"
   },
   "license": "MIT",
   "engines": {
