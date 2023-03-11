@@ -1,0 +1,6 @@
+plugins:
+  - name: node-cache
+    version: 1.0.0
+    path: ./node-cache
+    schemaPath: ./schema.json
+    packagePath: ./package.json
